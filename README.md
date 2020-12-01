@@ -1,6 +1,6 @@
 ## Nynd Cars Paris
 
-*** Site vitrine qui permettra la vente et location des voitures de collection ***
+ Site vitrine qui permettra la vente et location des voitures de collection 
 
 ## Technologies
 
